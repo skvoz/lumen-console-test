@@ -26,6 +26,5 @@
         "psr-4": {
             "Monsterlane\\Testing\\": "src/"
         }
-    },
-	"minimum-stability": "stable"
+    }
 }
