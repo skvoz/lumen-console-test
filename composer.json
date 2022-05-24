@@ -13,8 +13,8 @@
             "homepage": "https://github.com/monsterlane"
         }
     ],
+	"type": "library",
     "license": "MIT",
-    "type": "project",
     "require": {
 		"illuminate/support": "^5.0"
     },
@@ -26,5 +26,6 @@
         "psr-4": {
             "Monsterlane\\Testing\\": "src/"
         }
-    }
+    },
+	"minimum-stability": "stable"
 }
